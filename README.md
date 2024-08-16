@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lavish Tembhare</h1>
 <h3 align="center">💻 Aspiring developer in Java and Python</h3>
 
+<img align="right" alt="animation" width=400 src="animation.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lavishtembhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavishtembhare" height="30" width="40" /></a>
