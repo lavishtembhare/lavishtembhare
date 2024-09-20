@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavish Tembhare</h1>
 <h3 align="center">💻 Aspiring developer in Java and Python</h3>
 
-<img align="right" alt="animation" width=400 src="animation.gif">
+<img align="right" alt="animation" width=400 src="animation2.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
