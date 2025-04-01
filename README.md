@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lavish Tembhare</h1>
-<h3 align="center">💻 Aspiring developer in ANDROID and PYTHON</h3>
+<h3 align="center">💻 Aspiring Developer in Android & Python 🤖</h3>
+<h3 align="center">🧠 AI/ML Enthusiast 🚀</h3>
 <img align="right" alt="animation" width=400 src="Animation2.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
