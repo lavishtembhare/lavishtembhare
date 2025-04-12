@@ -3,7 +3,7 @@
 <h3 align="center">💻 Aspiring Developer in Android & Python 🤖</h3>
 <h3 align="center">🧠 AI/ML Enthusiast 🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavishtembhare&label=Profile%20views&color=0e75b6&style=flat" alt="lavishtembhare" /> </p>
-<img align="right" alt="animation" width=500 height= auto src="Animation3.gif">
+<img align="right" alt="animation" width=500 height= auto src="Animation2.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lavish_tembhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavish_tembhare" height="30" width="40" /></a>
