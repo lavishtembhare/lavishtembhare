@@ -25,7 +25,4 @@
 
 <br clear="both">
 
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
+<img src="https://raw.githubusercontent.com/lavishtembhare/lavishtembhare/output/snake.svg" alt="Snake animation" />
