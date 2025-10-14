@@ -3,7 +3,6 @@
 <h3 align="center">💻 Aspiring Developer in Android & Python 🤖</h3>
 <h3 align="center">🧠 AI/ML Enthusiast 🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavishtembhare&label=Profile%20views&color=0e75b6&style=flat" alt="lavishtembhare" /> </p>
-<img align="right" alt="animation" width=500 height= auto src="animation.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lavish.tembhare.39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lavish_tembhare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavishtembhare) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LavishTembhare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lavish_tembhare) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@lavishgameplay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lavishtembhare93@gmail.com) 
