@@ -22,7 +22,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=lavishtembhare&icon=6&color=8)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
