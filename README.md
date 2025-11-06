@@ -1,7 +1,10 @@
 <img align="right" alt="banner" width="100%" height="auto" src="Banner.png">
 <h1 align="center">Hi 👋, I'm Lavish Tembhare</h1>
 <h3 align="center">💻 Aspiring Developer in Android & Python 🤖</h3>
-<h3 align="center">🧠 AI/ML Enthusiast 🚀</h3>
+<h3 align="center">🧠 AI/ML and Game dev Enthusiast 🚀</h3>
+<h3 align="center">🌱 Learning Unity and advanced backend architecture.</h3>
+<h3 align="center">💬 Ask me about Android, Backend, or Game dev.</h3>
+<h3 align="center">⚡ Fun fact: I love exploring new tech stacks and gaming.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavishtembhare&label=Profile%20views&color=0e75b6&style=flat" alt="lavishtembhare" /> </p>
 
 ## 🌐 Socials:
