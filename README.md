@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lavish Tembhare</h1>
-<h3 align="center">💻 Aspiring Developer in Android & Python 🤖</h3>
-<h3 align="center">🧠 AI/ML and Game Dev Enthusiast 🚀</h3>
-<h3 align="center">🌱 Learning Unity and advanced backend architecture.</h3>
-<h3 align="center">💬 Ask me about Android, Backend, or Game dev.</h3>
-<h3 align="center">⚡ Fun fact: I love exploring new tech stacks and gaming.</h3>
+<h3 align="center">💻 Java BackendDeveloper 🤖</h3>
+<h3 align="center">🧠 AI/ML and Unity Game Development Enthusiast 🚀</h3>
+<h3 align="center">🌱 Currently exploring Unity and Java-based backend architecture.</h3>
+<h3 align="center">💬 Ask me about Python, Java Backend, or Unity Game Development.</h3>
+<h3 align="center">⚡ Fun fact: I love exploring new tech stacks and gaming 🎮</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavishtembhare&label=Profile%20views&color=0e75b6&style=flat" alt="lavishtembhare" /> </p>
 
 ## 🌐 Socials:
