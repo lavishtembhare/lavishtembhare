@@ -1,4 +1,3 @@
-<img align="right" alt="banner" width="100%" height="auto" src="Banner.png">
 <h1 align="center">Hi 👋, I'm Lavish Tembhare</h1>
 <h3 align="center">💻 Aspiring Developer in Android & Python 🤖</h3>
 <h3 align="center">🧠 AI/ML and Game Dev Enthusiast 🚀</h3>
