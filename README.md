@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavish Tembhare</h1>
-<h3 align="center">💻 Java BackendDeveloper 🤖</h3>
+<h3 align="center">💻 Java Backend Developer | 🎮 Unity Game Dev | 🤖 AI/ML Explorer</h3>
 <h3 align="center">🧠 AI/ML and Unity Game Development Enthusiast 🚀</h3>
 <h3 align="center">🌱 Currently exploring Unity and Java-based backend architecture.</h3>
 <h3 align="center">💬 Ask me about Python, Java Backend, or Unity Game Development.</h3>
