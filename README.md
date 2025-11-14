@@ -38,7 +38,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=lavishtembhare&icon=6&color=8)](https://visitcount.itsvg.in)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/lavishtembhare/lavishtembhare/output/snake.svg" alt="Snake animation" />
