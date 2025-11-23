@@ -6,6 +6,11 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lavish.tembhare.39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lavish_tembhare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavishtembhare) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LavishTembhare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lavish_tembhare) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lavishgameplay)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lavishtembhare93@gmail.com)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lavishtembhare&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lavishtembhare&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavishtembhare&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 # 💻 Tech Stack:
 
 # 🧩 Languages
@@ -28,12 +33,6 @@
 
 # 🎮 Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=lavishtembhare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lavishtembhare&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavishtembhare&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
