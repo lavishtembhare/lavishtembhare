@@ -35,7 +35,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-[![](https://visitcount.itsvg.in/api?id=lavishtembhare&icon=6&color=8)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=lavishtembhare&icon=6&color=8)](https://visitcount.itsvg.in) -->
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
